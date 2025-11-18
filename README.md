@@ -5,6 +5,7 @@
 > **Personal scratchpad** – I hacked this together in my free time, only for myself, and I do not plan to maintain or support it.
 
 A tiny pipeline that merges a few public Japanese dictionary sources into a Japanese→Vietnamese dataset. The scripts exist mainly so I can export a package that imports cleanly into the [Yomitan browser extension](https://yomitan.wiki).
+The script also support exporting to ditcfile format that allow user to merge with another dictfile and then export to KOBO dicthtml using [dictutil](https://github.com/pgaskin/dictutil).
 
 ## Data sources
 
